@@ -7,4 +7,5 @@ Por enquanto, aqui estão apenas algumas anotações realizadas nos cursos de es
 
 As anotações serão atualizadas conforme o conhecimento adquirido durante os cursos e entrega desse desafio
 
-O prazo para termino do bootcamp se encerra em 09/03/2022.
+links uteis: https://www.markdownguide.org/getting-started/
+

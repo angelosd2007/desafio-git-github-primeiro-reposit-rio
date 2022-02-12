@@ -1,5 +1,8 @@
 # dio-desafio-github-primeiro-rep.
-Desafio de projeto **#4Java** - Github.
+
+Desafio de projeto ![](https://hermes.digitalinnovation.one/tracks/f8bc60f2-9ca1-4389-be8b-dd0a18827f8c.png)
+
+![](https://hermes.digitalinnovation.one/assets/diome/logo.svg)
 
 * Esse é o primeiro desafio do Bootcamp GFT Start #4java.
 
